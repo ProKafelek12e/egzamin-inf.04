@@ -1,0 +1,9 @@
+Nazwa systemu operacyjnego: Windows 11
+
+Nazwy środowisk programistycznych:
+    - Visual studio 2022
+    - Visual studio code
+    
+Nazwy języków programowania:
+    - C#
+    - javascript

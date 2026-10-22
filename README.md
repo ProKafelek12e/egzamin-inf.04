@@ -1,1 +1,0 @@
-# egzamin-inf.04
